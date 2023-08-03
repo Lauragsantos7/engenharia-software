@@ -37,3 +37,6 @@ printf("Nome……….. %s",aluno.nome);
 printf("Numero …………%d\n",aluno.numero);
 printf("Nota……….. %.2f \n", aluno.nota);// 2f – duas casas decimais
 }
+
+
+// 
